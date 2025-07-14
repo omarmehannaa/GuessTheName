@@ -1,0 +1,10 @@
+lion
+tiger
+cat
+dog
+kangroo
+panda
+duck
+dolphin
+fish
+shark
